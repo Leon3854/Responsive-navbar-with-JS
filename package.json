@@ -1,0 +1,11 @@
+{
+  "name": "leon3854",
+  "version": "1.0.0",
+  "description": "responsive navbar only html css js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frad3854",
+  "license": "ISC"
+}
